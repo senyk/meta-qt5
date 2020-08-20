@@ -12,4 +12,9 @@ RDEPENDS_${PN} += " \
     nativesdk-qttools-tools \
     nativesdk-qtbase \
     nativesdk-perl-modules \
+    nativesdk-qt3d-tools \
+    nativesdk-qtdeclarative-tools \
+    nativesdk-qtremoteobjects-tools \
+    nativesdk-qtscxml-tools \
+    nativesdk-qttools-tools \
 "
